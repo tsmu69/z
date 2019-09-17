@@ -1,4 +1,4 @@
-#z#начало задания(а)
+#z #начало задания(а)
 Which thrombus formation does the phase of agglutination prevail in? (1)
 1) White
 2) Red
